@@ -3,4 +3,4 @@ A Simple Digital Clock using Javascript
 
 # Output 
 
-![](Dg_Clock_view.png)
+![](Dg_clock_view.png)
